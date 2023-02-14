@@ -17,3 +17,12 @@
 .form-control::placeholder {
   color: #333333;
 }
+
+.my-separator {
+}
+
+.__line {
+  height: 3px;
+  max-width: 100px;
+
+}
